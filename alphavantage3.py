@@ -86,17 +86,7 @@ chunks = [pairs[i:i + n] for i in range(0, len(pairs), n)]
 ##
 ####    dfs[sheet] = request_data(pairs[i:i+5])
 ##        
-##
-##
-##
-##
-##
-##
-##
-##
-##
-##
-##
+
 ##
 ####ci.main(results,no_of_rows,'intraday')
 ##
