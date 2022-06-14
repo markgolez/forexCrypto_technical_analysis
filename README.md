@@ -1,1 +1,1 @@
-# my_first_repo
+# forex and cryptocurrencies technical analysis
